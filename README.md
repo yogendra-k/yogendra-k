@@ -1,13 +1,9 @@
 # Hi, I'm Yogendra Khopkar👋
 
-> Senior Backend Engineer with over 15 years of experience building enterprise SAAS 
-> systems on the Microsoft stack. Currently exploring the intersection of 
-> .NET and AI/ML. AI Engineering to be precise. 
+> Full Stack Engineer with over 15 years of experience building enterprise SAAS 
+> systems on the Microsoft stack. My work has focused on designing and delivering backend APIs, data pipelines, and cloud-connected systems using C#, ASP.NET Core, and SQL Server.
 
-I've spent nearly two decades designing and shipping backend APIs, data 
-pipelines, and cloud-connected systems — primarily with C#, ASP.NET Core, 
-and SQL Server. Recently completed a PGP in AI/ML from UT Austin and 
-I'm focused on bringing intelligent features into practical backend systems.
+After completing a PGP in AI/ML from UT Austin, I’m now focused on AI Engineering and on bringing intelligent capabilities into practical, production-ready backend systems.
 
 ## 🛠️ Tech Stack
 
@@ -19,6 +15,9 @@ I'm focused on bringing intelligent features into practical backend systems.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+
+## Current Focus
+AI Engineering, backend architecture, scalable systems and practical AI/ML Integration.
 
 ## 🚀 Portfolio Projects
 
