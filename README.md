@@ -15,6 +15,7 @@ After completing a PGP in AI/ML from UT Austin, I’m now focused on AI Engineer
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ## Current Focus
 AI Engineering, backend architecture, scalable systems and practical AI/ML Integration.
