@@ -24,7 +24,7 @@ AI Engineering, backend architecture, scalable systems and practical AI/ML Integ
 
 | Project | Description | Stack |
 |---|---|---|
-| [Expense Management API](https://github.com/yogendra-k) | Production-grade REST API with role-based workflows, clean architecture, Docker & AWS | .NET 8, SQL Server, AWS, Docker |
+| [Expense Management API](https://github.com/yogendra-k/ExpenseManagementAPI) | Production-grade REST API with role-based workflows, clean architecture, Docker & AWS | .NET 8, SQL Server, AWS, Docker |
 | [dotnet-lab](https://github.com/yogendra-k/dotnet-lab) | Personal lab for experimenting with .NET, C# and ASP.NET Core | .NET, C# |
 
 ## 📜 Certifications & Education
