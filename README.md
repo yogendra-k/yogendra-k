@@ -21,10 +21,9 @@ After completing a PGP in AI/ML from UT Austin, I’m now focused on AI Engineer
 AI Engineering, backend architecture, scalable systems and practical AI/ML Integration.
 
 ## 🚀 Portfolio Projects
-
 | Project | Description | Stack |
 |---|---|---|
-| [Expense Management API](https://github.com/yogendra-k/ExpenseManagementAPI) | Production-grade REST API with role-based workflows, clean architecture, Docker & AWS | .NET 8, SQL Server, AWS, Docker |
+| [ServiceDesk Pro](https://github.com/yogendra-k/servicedesk-pro) | Full-stack enterprise service desk — multi-level approval workflows, role-based auth, real-time inbox, analytics & AI layer (built in public, active development) | .NET 9, React, SQL Server, SignalR, Docker |
 | [dotnet-lab](https://github.com/yogendra-k/dotnet-lab) | Personal lab for experimenting with .NET, C# and ASP.NET Core | .NET, C# |
 
 ## 📜 Certifications & Education
