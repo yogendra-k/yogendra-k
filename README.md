@@ -3,7 +3,7 @@
 > Full Stack Engineer with over 15 years of experience building enterprise SAAS 
 > systems on the Microsoft stack. My work has focused on designing and delivering backend APIs, data pipelines, and cloud-connected systems using C#, ASP.NET Core, and SQL Server.
 
-After completing a PGP in AI/ML from UT Austin, I’m now focused on AI Engineering and on bringing intelligent capabilities into practical, production-ready backend systems.
+I completed a Postgraduate Program in AI/ML from UT Austin and am currently pursuing a Master of Science in Cybersecurity at Georgia Tech. My focus is on AI Engineering and building secure, intelligent, production-ready backend systems.
 
 ## 🛠️ Tech Stack
 
